@@ -1,0 +1,40 @@
+.logo{
+    margin-left: 100px;
+}
+
+.logo h1{
+    margin-top: -10px;
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.logo p{
+    margin-top: -20px;
+}
+
+.menu{
+    float: right;
+    margin-top: -70px;
+    margin-right: 100px;
+}
+
+.menu ul{
+    display: flex;
+}
+
+.menu-item{
+    list-style-type: none;
+}
+
+.menu-link{
+    padding: 15px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.menu-link:hover{
+    color: brown;
+    text-decoration: underline;
+}

@@ -1,0 +1,51 @@
+.infos{
+    border: 1px solid black;
+    color: #fff;
+    background-color: black;
+    opacity: 0.8;
+    margin-top: -56px;
+    width: 101%;
+}
+
+.infos p{
+    margin-left: 20px;
+}
+
+.infos .btn{
+    float: right;
+    margin-top: -40px;
+    border: 2px solid brown;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    background-color: brown;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+article h1{
+    margin-left: 50px;
+    margin-top: -40px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+article p{
+    text-align: justify;
+    width: 65%;
+}
+
+aside{
+    float: right;
+    text-align: center;
+    margin-top: -700px;
+    margin-right: 50px;
+    border: 2px solid gray;
+    background-color: gray;
+    color: #fff;
+    padding: 5px;
+}
+
+aside h1{
+    text-transform: uppercase;
+}

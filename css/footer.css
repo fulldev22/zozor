@@ -1,0 +1,31 @@
+footer h1{
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.post{
+    margin-left: 30px;
+}
+
+.photos{
+    text-align: center;
+    margin-top: -130px;
+}
+
+.friends{
+    float: right;
+    margin-top: -150px;
+    margin-right: 30px;
+}
+
+.friends .group{
+    display: flex;
+}
+
+.friends p{
+    color: brown;
+}
+
+.friends .group2{
+    margin-left: 30px;
+}
